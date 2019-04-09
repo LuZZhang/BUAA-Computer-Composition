@@ -1,0 +1,32 @@
+ISim log file
+Running: D:\jizu\homework\P4_plus\P4_plus\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/jizu/homework/P4_plus/P4_plus/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $26 <= 00000002
+@00003004: $ 2 <= 00000001
+@00003008: $11 <= 0000ffff
+@0000300c: *00000000 <= ff000000
+@00003010: $12 <= ffffffff
+@00003014: $13 <= 000000ff
+@00003018: *00000004 <= ffff0000
+@0000301c: $14 <= ffffffff
+@00003020: $15 <= 0000ffff
+@00003028: $ 5 <= ffff0000
+@0000302c: $ 7 <= 00010000
+@00003030: *00000008 <= 00000002
+@00003034: $ 6 <= 00000002
+@00003038: $ 4 <= 00000001
+@0000303c: $ 3 <= 00000001
+@00003040: $ 5 <= 00010000
+@0000303c: $ 3 <= 00000002
+@00003040: $ 5 <= 00010000
+@0000304c: $31 <= 00003050
+@00003058: $ 9 <= 00000003
+@00003050: $11 <= 00000003
+@00003054: $31 <= 00003058
