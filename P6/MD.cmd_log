@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P6 -o D:/jizu/homework/P6/MD.tfi -lib work D:/jizu/homework/P6//MD.v -module MD -template E:/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

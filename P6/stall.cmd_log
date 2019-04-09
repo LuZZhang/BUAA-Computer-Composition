@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P6 -o D:/jizu/homework/P6/stall.tfi -lib work D:/jizu/homework/P6//stall.v -module stall -template E:/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

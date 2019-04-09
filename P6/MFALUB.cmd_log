@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P6 -o D:/jizu/homework/P6/MFALUB.tfi -lib work D:/jizu/homework/P6//MFALUB.v -module MFALUB -template E:/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

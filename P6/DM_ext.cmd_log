@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P6 -o D:/jizu/homework/P6/DM_ext.tfi -lib work D:/jizu/homework/P6//DM_ext.v -module DM_ext -template E:/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

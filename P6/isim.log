@@ -1,0 +1,50 @@
+ISim log file
+Running: D:\jizu\homework\P6\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/jizu/homework/P6/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 10000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  55@00003000: $ 2 <= 000000e8
+                  65@00003004: $ 1 <= 87650000
+                  75@00003008: $ 1 <= 000000e8
+                  85@0000300c: $ 4 <= 000000e8
+                  95@00003010: $ 6 <= 00000000
+                 105@00003014: $ 8 <= 000000e8
+                 115@00003018: $10 <= 000000e8
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  55@00003000: $ 2 <= 000000e8
+                  65@00003004: $ 1 <= 87650000
+                  75@00003008: $ 1 <= 000000e8
+                  85@0000300c: $ 4 <= 000000e8
+                  95@00003010: $ 6 <= 00000000
+                 105@00003014: $ 8 <= 000000e8
+                 115@00003018: $10 <= 000000e8
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  55@00003000: $ 2 <= 000000e8
+                  65@00003004: $ 1 <= 87650000
+                  75@00003008: $ 1 <= 000000e8
+                  85@0000300c: $ 4 <= 000000e8
+                  95@00003010: $ 6 <= 00000000
+                 105@00003014: $ 8 <= 000000e8
+                 115@00003018: $10 <= 000000e8
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  55@00003000: $ 2 <= 000000e8
+                  65@00003004: $ 3 <= 87650000
+                 115@00003018: $ 1 <= 876500e8
+                 125@0000301c: $ 4 <= 000000e8
+                 135@00003020: $ 6 <= 00000000
+                 145@00003024: $ 8 <= 876500e8
+                 155@00003028: $10 <= 876500e8

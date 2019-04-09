@@ -1,0 +1,78 @@
+Running: E:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/jizu/homework/P6/tb_isim_beh.exe -prj D:/jizu/homework/P6/tb_beh.prj work.tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/jizu/homework/P6/W.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/stall.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/RF.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/PC.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/NPC.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MRFWD.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MPC.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MFV2M.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MFCMPD.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MFALUB.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MFALUA.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MD.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MALUb.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/MA3E.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/M.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/IM.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/EXT.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/E.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/DM_ext.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/DM.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/D.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/contr_W.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/contr_M.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/contr_E.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/contr_D.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/CMP.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/ALU.v" into library work
+WARNING:HDLCompiler:327 - "D:/jizu/homework/P6/ALU.v" Line 89: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "D:/jizu/homework/P6/ADD4.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/mips.v" into library work
+Analyzing Verilog file "D:/jizu/homework/P6/tb.v" into library work
+Analyzing Verilog file "E:/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:327 - "D:/jizu/homework/P6/ALU.v" Line 89: Concatenation with unsized literal; will interpret as 32 bits
+Completed static elaboration
+Compiling module PC
+Compiling module ADD4
+Compiling module IM
+Compiling module stall
+Compiling module D
+Compiling module contr_D
+Compiling module RF
+Compiling module EXT
+Compiling module MFCMPD
+Compiling module CMP
+Compiling module NPC
+Compiling module MA3E
+Compiling module MPC
+Compiling module E
+Compiling module contr_E
+Compiling module MFALUA
+Compiling module MFALUB
+Compiling module MALUb
+Compiling module ALU
+Compiling module MD
+Compiling module M
+Compiling module contr_M
+Compiling module MFV2M
+Compiling module DM
+Compiling module W
+Compiling module contr_W
+Compiling module DM_ext
+Compiling module MRFWD
+Compiling module mips
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 16 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 31 Verilog Units
+Built simulation executable D:/jizu/homework/P6/tb_isim_beh.exe
+Fuse Memory Usage: 33064 KB
+Fuse CPU Usage: 1031 ms
